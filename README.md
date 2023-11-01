@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+#this dice game web app
+#this web app is develop using html, css, js, tailwindcss and reactjs
+#web app setup
+1.clone this repo
+2.In your terminal run command -> npm i
+3.Next execute this code -> npm run dev
+4.If npm command not run install node js
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
